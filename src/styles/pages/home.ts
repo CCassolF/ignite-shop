@@ -50,7 +50,7 @@ export const Product = styled('a', {
     },
 
     span: {
-      fontSize: 'xl',
+      fontSize: '$xl',
       fontWeight: 'bold',
       color: '$green300',
     },
